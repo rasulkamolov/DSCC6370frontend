@@ -5,4 +5,3 @@ files:
     destination: c:\website-dropfolder
 hooks:
  ApplicationStart:
-      runas: Administrator
