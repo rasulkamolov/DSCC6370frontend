@@ -1,7 +1,5 @@
 version: 0.0
 os: windows
 files:
-  - source: \
-    destination: c:\website-dropfolder
 hooks:
  ApplicationStart:
