@@ -5,5 +5,4 @@ files:
     destination: c:\website-dropfolder
 hooks:
  ApplicationStart:
-      timeout: 300
       runas: Administrator
